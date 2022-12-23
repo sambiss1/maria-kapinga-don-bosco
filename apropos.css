@@ -1,0 +1,52 @@
+.image1{
+    background-image: url("images/imageapropos.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 40vh;
+    padding: 5rem;
+
+}
+.message{
+    text-align: center;
+    color: blue;
+}
+.formulaire{
+    text-align: center;
+}
+.formulaire>*{
+margin: 1rem;
+border-radius: 5px;
+border: none;
+
+}
+
+input{
+    width: 50%;
+    height: 25px;
+    border-radius: 5px;
+    border: none;
+}
+textarea{
+    width: 50%;
+    height: 150px;
+}
+.deuxieme{
+    padding: 30px 50px;
+}
+.rdc{
+    background-color:#F3EDED;
+}
+.notre-vision{
+    background-color: #F3EDED;
+    padding:100px 0 ;
+    padding-left:20px ;
+}
+.envoyer{
+    all: unset;
+    background-color: #283891;
+    color: white;
+   width: 50%;
+   border-radius: 5px;
+   border: none;
+}
